@@ -10,9 +10,9 @@ This tutorial assumes that you have [Anaconda](https://www.anaconda.com/products
 
 The next step is to clone or download the tutorial materials in this repository. If you are familiar with Git, run the clone command:
 
-    git clone https://github.com/fonnesbeck/Bayes_Computing_Course.git
+    git clone https://github.com/fonnesbeck/bayes_course_july2020.git
 
-otherwise you can [download a zip file](https://github.com/fonnesbeck/Bayes_Computing_Course/archive/master.zip) of its contents, and unzip it on your computer.
+otherwise you can [download a zip file](https://github.com/fonnesbeck/bayes_course_july2020/archive/master.zip) of its contents, and unzip it on your computer.
 ***
 The repository for this tutorial contains a file called `environment.yml` that includes a list of all the packages used for the tutorial. If you run:
 
@@ -30,7 +30,7 @@ The binder link above should also provide a working environment.
 
 ## Pre-course Work
 
-In advance of the course, we would like attendees to complete a short homework notebook that will ensure everyone has the requisite baseline knowledge. You can find this Jupyter notebook in the `/notebooks` subdirectory (under `Section0-Pre_Work.ipynb`). There is no need to hand this in to anyone, but please reach out if you have difficulty with any of the problems (or with setting up your computing environment) by creating an [issue](https://github.com/fonnesbeck/Bayes_Computing_Course/issues) in this repository, or by emailing.
+In advance of the course, we would like attendees to complete a short homework notebook that will ensure everyone has the requisite baseline knowledge. You can find this Jupyter notebook in the `/notebooks` subdirectory (under `Section0-Pre_Work.ipynb`). There is no need to hand this in to anyone, but please reach out if you have difficulty with any of the problems (or with setting up your computing environment) by creating an [issue](https://github.com/fonnesbeck/bayes_course_july2020/issues) in this repository, or by emailing.
 
 ## Course Outline
 
